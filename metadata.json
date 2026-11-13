@@ -1,0 +1,6 @@
+{
+  "name": "1. Sınıf Hızlı Okuma Atölyesi",
+  "description": "5 kümülatif ses grubuna (ANETİL, OKURIM, ÜSÖYDZ, ÇBGCŞ, PHVĞFJ) uyumlu, yapay zeka destekli 1. sınıf hızlı okuma ve akıcılık atölyesi.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
